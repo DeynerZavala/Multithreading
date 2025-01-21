@@ -1,0 +1,12 @@
+# Directorios de build:
+cmake-build-*/
+
+# Archivos de IDE:
+.idea/
+*.iml
+
+# Ejecutables y objetos intermedios:
+*.exe
+*.out
+*.o
+*.obj
